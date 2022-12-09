@@ -1,6 +1,6 @@
-div{
+.colorplatte{
     width: 300px;
-    
+    box-shadow: 5px 5px 20px rgba(0, 0, 0 , 0.5);
 }
 
 
@@ -8,8 +8,27 @@ P{
    font-size: 18px;
    font-family: 微軟正黑體;
    background-color: antiquewhite;
-   color: brown;
+   color: aliceblue;
    line-height: 2;
+   text-align: center;
+   margin: 0%;
+
+}
 
 
+.color1{
+    background-color: #9D7553;
+}
+.color2{
+    background-color: #DABEA7;
+}
+.color3{
+    background:#A98B73 ;
+}
+.color4{
+    background-color:#876D5A ;
+}
+.color5{
+    background-color:#CDA581;
+    height: 200px;
 }
